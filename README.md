@@ -34,6 +34,3 @@
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
-
-<h2>Contact</h2>
-<p>For more information, contact: your-email@example.com</p>
